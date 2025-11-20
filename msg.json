@@ -1,0 +1,9 @@
+{
+  "availableMsg": [
+    {
+      id: 0,
+      message: "test message",
+      sender: "GhinoRhino"
+    }
+  ]
+}
