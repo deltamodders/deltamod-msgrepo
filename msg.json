@@ -3,6 +3,8 @@
     {
       "id": 0,
       "message": "test message",
+      "title": "A test message",
+      "showEveryBoot": false,
       "sender": "GhinoRhino"
     }
   ]
