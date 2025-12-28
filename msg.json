@@ -1,9 +1,3 @@
 {
-  "availableMsg": [{
-    "id": "1bias",
-    "title": "Hi!",
-    "message": "This is a test of the message system. If you are able to read this, and are on the Deltamodders Discord server, ping GhinoRhino in general and I'll know you read this! If not, have a nice day! :)",
-    "sender": "GhinoRhino",
-    "showEveryBoot": false
-  }]
+  "availableMsg": []
 }
