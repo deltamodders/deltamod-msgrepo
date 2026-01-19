@@ -1,3 +1,8 @@
 {
-  "availableMsg": []
-}
+  "availableMsg": [{
+    "id": "1bias",
+    "title": "A new survey!",
+    "message": "Have any Deltamod opinions? You can submit an opinion here: https://tinyurl.com/deltamodSurvey1 (type into browser).",
+    "sender": "GhinoRhino",
+    "showEveryBoot": false
+  }]
