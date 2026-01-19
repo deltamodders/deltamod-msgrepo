@@ -1,0 +1,1 @@
+This repository contains a file used by Deltamod to fetch messages from devs. The system is non-invasive, will not fetch any user data but will only send the message to the clients, and will not halt Deltamod if it crashes.
